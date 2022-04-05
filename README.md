@@ -1,7 +1,7 @@
 ### Henlo! 👋
 
 - :hammer: I’m currently working on:
-  - FlowRun, executable flowcharts in browser, written in brand new scala3!
-  - Hepek, SSG in pure scala
-  - RxTags, reactive ScalaJS frontend library
-- :bangbang: and just to reiterate if you missed it above: scala, scala, scala...
+  - [FlowRun](https://flowrun.io/), executable flowcharts in browser, written in brand new scala3!
+  - [Hepek](https://github.com/sake92/hepek), SSG and generic HTML components in pure scala
+  - [RxTags](https://github.com/sake92/RxTags), reactive ScalaJS frontend library
+
