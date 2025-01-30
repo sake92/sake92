@@ -10,5 +10,6 @@
   - [RxTags](https://github.com/sake92/RxTags), reactive ScalaJS frontend library
 
 If you like my work you can buy me a coffee ☕ :  
+- https://github.com/sponsors/sake92
 - https://ko-fi.com/sake92
 - https://buymeacoffee.com/sake
