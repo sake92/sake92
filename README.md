@@ -9,6 +9,10 @@
   - [Squery](https://sake92.github.io/squery), raw SQL library
   - [RxTags](https://github.com/sake92/RxTags), reactive ScalaJS frontend library
 
+---
+📖 Check out my free book [Learn Programming with FlowRun](https://leanpub.com/learnprogrammingwithflowrun)
+
+---
 If you like my work you can buy me a coffee ☕ :  
 - https://github.com/sponsors/sake92
 - https://ko-fi.com/sake92
