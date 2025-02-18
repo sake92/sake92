@@ -1,5 +1,9 @@
 ### Hello :bosnia_herzegovina:! 👋
 
+📖 Check out my free book [Learn Programming with FlowRun](https://leanpub.com/learnprogrammingwithflowrun)
+or buy it on [Amazon](https://a.co/d/7C7rkXS)
+
+---
 :hammer: I am currently working on:
   - [FlowRun](https://flowrun.io/), executable flowcharts for the web
   - [Sharaf](https://github.com/sake92/sharaf), a minimalistic HTTP framework
@@ -8,9 +12,6 @@
   - [Tupson](https://sake92.github.io/tupson), a simple JSON library
   - [Squery](https://sake92.github.io/squery), raw SQL library
   - [RxTags](https://github.com/sake92/RxTags), reactive ScalaJS frontend library
-
----
-📖 Check out my free book [Learn Programming with FlowRun](https://leanpub.com/learnprogrammingwithflowrun)
 
 ---
 If you like my work you can buy me a coffee ☕ :  
