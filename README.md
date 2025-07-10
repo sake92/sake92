@@ -1,20 +1,28 @@
-### Hello :bosnia_herzegovina:! 👋
+# Hello there! 👋
 
-📖 Check out my free book [Learn Programming with FlowRun](https://leanpub.com/learnprogrammingwithflowrun)
-or buy it on [Amazon](https://a.co/d/7C7rkXS)
+## Free book 📖
+Check out my free book [Learn Programming with FlowRun](https://leanpub.com/learnprogrammingwithflowrun)
+or buy hardcover on [Amazon](https://a.co/d/7C7rkXS)
 
----
-:hammer: I am currently working on:
-  - [FlowRun](https://flowrun.io/), executable flowcharts for the web
-  - [Sharaf](https://github.com/sake92/sharaf), a minimalistic HTTP framework
-  - [OpenApi4s](https://github.com/sake92/openapi4s), openapi (re)generator for scala
-  - [Hepek](https://github.com/sake92/hepek), SSG and generic HTML components in pure scala
-  - [Tupson](https://sake92.github.io/tupson), a simple JSON library
-  - [Squery](https://sake92.github.io/squery), raw SQL library
-  - [RxTags](https://github.com/sake92/RxTags), reactive ScalaJS frontend library
+## :hammer: Actively working on
 
----
-If you like my work you can buy me a coffee ☕ :  
+- [FlowRun](https://flowrun.io/), executable flowcharts for the web
+- [Sharaf](https://github.com/sake92/sharaf), a minimalistic HTTP framework
+- [Flatmark](https://github.com/sake92/flatmark), the most static SSG
+- [OpenApi4s](https://github.com/sake92/openapi4s), openapi (re)generator for scala
+- [Tupson](https://sake92.github.io/tupson), a simple JSON binding library
+- [Squery](https://sake92.github.io/squery), raw SQL library
+- [notes](https://github.com/sake92/notes)
+
+## Maintenance mode
+
+- [Hepek](https://github.com/sake92/hepek), SSG and generic HTML components in pure scala
+- [nand2tetris solutions](https://github.com/sake92/nand2tetris)
+
+## Support my work
+
 - https://github.com/sponsors/sake92
 - https://ko-fi.com/sake92
 - https://buymeacoffee.com/sake
+
+:bosnia_herzegovina:
