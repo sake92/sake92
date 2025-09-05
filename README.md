@@ -26,3 +26,11 @@ or buy hardcover on [Amazon](https://a.co/d/7C7rkXS)
 - https://buymeacoffee.com/sake
 
 Made in Bosnia and Herzegovina :bosnia_herzegovina:
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sake92&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sake92&exclude_repo=flatmark)
+
+
