@@ -8,6 +8,7 @@ or buy hardcover on [Amazon](https://a.co/d/7C7rkXS)
 
 - [FlowRun](https://flowrun.io/), executable flowcharts for the web
 - [Sharaf](https://github.com/sake92/sharaf), a minimalistic HTTP framework
+- [Deder](https://github.com/sake92/deder), concurrent-first JVM build tool
 - [Flatmark](https://github.com/sake92/flatmark), the most static SSG
 - [OpenApi4s](https://github.com/sake92/openapi4s), openapi (re)generator for scala
 - [Tupson](https://sake92.github.io/tupson), a simple JSON binding library
